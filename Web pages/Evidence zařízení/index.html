@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evidence zařízení</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+    <h1>Evidence zařízení</h1>
+
+    <section id="menu">
+        <h2 class="Nadpis">Menu</h2>
+        <ul>
+            <li><a href="#home">Domů</a></li>
+            <li><a href="#zarizeni">Zařízení</a></li>
+            <li><a href="#pridat">Přidat zařízení</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+        </ul>
+    </section>
+
+    <section id="zarizeni">
+        <h2 class="Nadpis">Seznam zařízení</h2>
+        <div class="container">
+            <div class="karty">
+                <h2>Notebook Lenovo</h2>
+                <p>Laptop</p>
+                <p>Funkční</p>
+                <button>Detail</button>
+            </div>
+
+            <div class="karty">
+                <h2>Televize Samsung</h2>
+                <p>Televize</p>
+                <p>Nefunkční</p>
+                <button>Detail</button>
+            </div>
+
+            <div class="karty">
+                <h2>Telefon Huawei</h2>
+                <p>Telefon</p>
+                <p>Nefunkční</p>
+                <button>Detail</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="pridat">
+        <h2 class="formular">Přidat zařízení</h2>
+        <form id="form">
+            <input type="text" id="name" maxlength="20" placeholder="Název zařízení">
+            
+            <select id="type">
+                <option>Laptop</option>
+                <option>Telefon</option>
+                <option>Monitor</option>
+            </select>
+
+            <button type="submit">Přidat</button>
+        </form>
+    </section>
+
+    <section id="kontakt">
+        <h2 class="Nadpis">Kontakt</h2>
+        <p class="kontakt">KlubaKovacik@email.cz</p>
+    </section>
+   
+    <script src="script.js"></script>
+</body>
+</html>
