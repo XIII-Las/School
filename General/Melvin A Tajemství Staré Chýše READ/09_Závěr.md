@@ -1,5 +1,4 @@
 ## Hodnocení práce
-
 Výborná, žádná prokrastinace, šlapalo nám to přímo jak hodinky, při práci jsme měli vždy dobrou náladu a pozitivní energii.
 
 ## Největší trápení + řešení
