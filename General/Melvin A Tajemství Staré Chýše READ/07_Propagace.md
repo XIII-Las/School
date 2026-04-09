@@ -9,4 +9,4 @@ Web čistě vysvětluje o čem hra je a jaký typ hry to je. Je stejně jednoduc
 ![Banner1](mevlin_banner.png)
 ![Banner2](mevlin_banner2.png)
 ![Screenshot webové stránky](mevlin_stranka.png)
-[Soubor s webovou stránkou](mevlin_stranka)
+[Soubor s webovou stránkou](melvin_stranka)
