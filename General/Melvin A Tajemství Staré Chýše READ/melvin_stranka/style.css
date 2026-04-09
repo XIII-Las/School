@@ -1,0 +1,35 @@
+#container {
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+#container a {
+    margin-top: 3%;
+    font-size: 30px;
+    background-color: lime;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 5%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#container p {
+    font-size: 20px;
+}
+
+#container h2, h1 {
+    font-size: 30px;
+}
+
+body {
+    background-image: url('melvinsnalevo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
